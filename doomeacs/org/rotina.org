@@ -1,0 +1,43 @@
+* TODO Acordar cedo
+SCHEDULED: <2024-05-17 sex .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+* TODO Almoçar
+SCHEDULED: <2024-05-17 sex .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+* TODO Estudar
+SCHEDULED: <2024-05-16 qui .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+
+* TODO Programar
+SCHEDULED: <2024-05-16 qui .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+
+* TODO 1200kl
+SCHEDULED: <2024-05-17 sex .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+
+* TODO Tomar banho
+SCHEDULED: <2024-05-17 sex .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+* TODO Escovar dentes
+SCHEDULED: <2024-05-17 sex .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+* TODO Dormir cedo
+SCHEDULED: <2024-05-16 qui .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
